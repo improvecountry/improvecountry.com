@@ -73,3 +73,4 @@ html_theme_options = {
 
 html_logo = "_static/img/pic.png"
 html_favicon = "_static/img/favicon.ico"
+html_show_sourcelink = False
