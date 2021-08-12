@@ -70,3 +70,6 @@ html_theme_options = {
     },
     "navigation_with_keys": True,
 }
+
+html_logo = "_static/img/pic.png"
+html_favicon = "_static/img/favicon.ico"
