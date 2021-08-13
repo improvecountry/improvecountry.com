@@ -6,11 +6,13 @@
 Ideas
 =====
 
-|ideas_on_github|
+|ideas_on_github| |discussions_on_github|
 
 Go to 
 :link-badge:`https://github.com/improvecountry/ideas,"IDEAS",cls=badge-danger,text-white,tooltip=IDEAS` 
 and share your ideas!
+
+----
 
 Go to 
 :link-badge:`/initiatives/index,INITIATIVES,ref,badge-danger text-white,INITIATIVES`
@@ -28,3 +30,8 @@ and check other possibilities to improve your country!
 .. |ideas_on_github| image:: https://img.shields.io/github/issues/improvecountry/ideas?color=%23EC0009&label=ideas&logo=GitHub&style=social
    :alt: GitHub ideas
    :target: https://github.com/improvecountry/ideas
+
+
+.. |discussions_on_github| image:: https://img.shields.io/github/discussions/improvecountry/ideas?color=%23EC0009&label=discussions&logo=GitHub&style=social
+   :alt: GitHub discussions
+   :target: https://github.com/improvecountry/ideas/discussions
