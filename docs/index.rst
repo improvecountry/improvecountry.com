@@ -6,6 +6,8 @@
 Ideas
 =====
 
+|ideas_on_github|
+
 Go to 
 :link-badge:`https://github.com/improvecountry/ideas,"IDEAS",cls=badge-danger,text-white,tooltip=IDEAS` 
 and share your ideas!
@@ -23,3 +25,6 @@ and check other possibilities to improve your country!
 
 
 
+.. |ideas_on_github| image:: https://img.shields.io/github/issues/improvecountry/ideas?color=%23EC0009&label=ideas&logo=GitHub&style=social
+   :alt: GitHub ideas
+   :target: https://github.com/improvecountry/ideas
