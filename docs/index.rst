@@ -6,10 +6,13 @@
 Ideas
 =====
 
-Go to `github.com/improvecountry/ideas <https://github.com/improvecountry/ideas>`_ 
+Go to 
+:link-badge:`https://github.com/improvecountry/ideas,"IDEAS",cls=badge-danger,text-white,tooltip=IDEAS` 
 and share your ideas!
 
-Go to :doc:`/initiatives/index` and check other possibilities to improve your country!
+Go to 
+:link-badge:`/initiatives/index,INITIATIVES,ref,badge-danger text-white,INITIATIVES`
+and check other possibilities to improve your country!
 
 .. toctree::
    :maxdepth: 3
