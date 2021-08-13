@@ -29,7 +29,7 @@ and check other possibilities to improve your country!
 
 .. |ideas_on_github| image:: https://img.shields.io/github/issues/improvecountry/ideas?color=%23EC0009&label=ideas&logo=GitHub&style=social
    :alt: GitHub ideas
-   :target: https://github.com/improvecountry/ideas
+   :target: https://github.com/improvecountry/ideas/issues
 
 
 .. |discussions_on_github| image:: https://img.shields.io/github/discussions/improvecountry/ideas?color=%23EC0009&label=discussions&logo=GitHub&style=social
