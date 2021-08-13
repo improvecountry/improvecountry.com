@@ -16,6 +16,21 @@ Citizens' initiatives
         :text: szczepienia.github.io
         :classes: btn-outline-danger btn-block
 
+Communities
+-----------
+
+.. panels::
+    
+    **Code for Poland**
+    ^^^
+    *A community creating bottom-up IT projects to be socially useful.*
+    
+    :badge:`IT,badge-primary`
+    +++
+    .. link-button:: https://github.com/kodujdlapolski/
+        :text: github.com/kodujdlapolski
+        :classes: btn-outline-danger btn-block
+
 
 Foundations
 -----------
