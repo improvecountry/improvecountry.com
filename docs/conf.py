@@ -69,7 +69,6 @@ html_theme_options = {
         "color-brand-content": "#EC0009",
     },
     "navigation_with_keys": True,
-    "touch_icon": "_static/img/pic.png"
 }
 
 html_logo = "_static/img/pic.png"
