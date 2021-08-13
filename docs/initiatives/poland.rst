@@ -1,6 +1,22 @@
 Poland
 ======
 
+Citizens' initiatives
+---------------------
+
+.. panels::
+    
+    **A search engine for vaccinations against COVID-19**
+    ^^^
+    *Help in finding vacancies for COVID-19 vaccinations.*
+    
+    :badge:`IT,badge-primary`
+    +++
+    .. link-button:: https://szczepienia.github.io
+        :text: szczepienia.github.io
+        :classes: btn-outline-danger btn-block
+
+
 Foundations
 -----------
 
