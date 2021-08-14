@@ -9,13 +9,13 @@ Ideas
 |ideas_on_github| |discussions_on_github|
 
 Go to 
-:link-badge:`https://github.com/improvecountry/ideas,"IDEAS",cls=badge-danger,text-white,tooltip=IDEAS` 
+:link-badge:`https://github.com/improvecountry/ideas,"IDEAS",cls=badge-danger` 
 and share your ideas!
 
 ----
 
 Go to 
-:link-badge:`/initiatives/index,INITIATIVES,ref,badge-danger text-white,INITIATIVES`
+:link-badge:`/initiatives/index,"INITIATIVES",ref,badge-danger`
 and check other possibilities to improve your country!
 
 .. toctree::
