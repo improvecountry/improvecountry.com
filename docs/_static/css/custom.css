@@ -1,0 +1,95 @@
+/** css/custom.css **/
+
+/* This line is theme specific - it includes the base theme CSS */
+/* @import '../alabaster.css';  for Alabaster */
+/*@import 'theme.css';       /* for the Read the Docs theme */
+@import 'basic.css';
+
+/* div.content {
+    text-align: justify;
+    text-justify: auto;
+} */
+
+a.fa-icon:link {
+    text-decoration:none;
+}
+
+/* Tooltip container */
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+ 
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+.tooltip .tooltiptext {
+  width: 120px;
+  bottom: 100%;
+  left: 50%; 
+  margin-left: -60px; /* Use half of the width (120/2 = 60), to center the tooltip */
+}
+
+div.profile-pic {
+  margin-top: 1em;
+}
+
+div.profile-pic img {
+  border-radius: 500px;
+  width: 80%;
+  max-width: 190px;
+  margin: 0 auto;
+  display: block;
+}
+
+a.btn:link {
+  text-decoration: none;
+  margin: 0 auto;
+}
+
+a.btn:visited {
+  text-decoration: none; 
+}
+
+a.btn:hover { 
+  text-decoration: none; 
+}
+
+a.btn:active { 
+  text-decoration: none; 
+}
+
+a.badge:link {
+  text-decoration: none;
+  max-width: 200px;
+  margin: 0 auto;
+}
+
+a.badge:visited {
+  text-decoration: none; 
+}
+
+a.badge:hover { 
+  text-decoration: none; 
+}
+
+a.badge:active { 
+  text-decoration: none; 
+}
