@@ -3,20 +3,34 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Ideas
-=====
+.. :sd_hide_title:
+
+Improve Country
+===============
 
 |ideas_on_github| |discussions_on_github|
 
-Go to 
-:link-badge:`https://github.com/improvecountry/ideas,"IDEAS",cls=badge-danger` 
-and share your ideas!
+ | Place to gather initiatives, generate and discuss ideas to improve YOUR country. Feel free to contribute 💌!
 
-----
 
-Go to 
-:link-badge:`/initiatives/index,"INITIATIVES",ref,badge-danger`
-and check other possibilities to improve your country!
+.. _cards-clickable:
+
+.. grid:: 2
+
+   .. grid-item-card:: :octicon:`light-bulb;1em;sd-text-danger` IDEAS
+      :link: https://github.com/improvecountry/ideas
+      :text-align: center
+      :shadow: md
+
+      Click here to share your ideas!
+
+   .. grid-item-card:: :octicon:`paper-airplane;1em;sd-text-danger` INITIATIVES
+      :link: /initiatives/index
+      :link-type: doc
+      :text-align: center
+      :shadow: md
+
+      Click here to check other possibilities to improve your country!
 
 .. toctree::
    :maxdepth: 3

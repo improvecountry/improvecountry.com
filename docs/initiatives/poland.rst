@@ -4,57 +4,85 @@ Poland
 Citizens' initiatives
 ---------------------
 
-.. panels::
-    
-    **A search engine for vaccinations against COVID-19**
-    ^^^
-    *Help in finding vacancies for COVID-19 vaccinations.*
-    
-    :badge:`IT,badge-primary`
-    +++
-    .. link-button:: https://szczepienia.github.io
-        :text: szczepienia.github.io
-        :classes: btn-outline-danger btn-block
+.. grid:: 1 2 2 2
+    :gutter: 3
+
+    .. grid-item-card::
+        :class-footer: sd-text-center
+        :shadow: md
+
+        **A search engine for vaccinations against COVID-19**   
+        ^^^
+        *Help in finding vacancies for COVID-19 vaccinations.*
+
+        :bdg-primary:`IT`
+        +++
+        .. button-link:: https://szczepienia.github.io
+            :color: danger
+            :outline:
+
+            szczepienia.github.io
+
 
 Communities
 -----------
 
-.. panels::
-    
-    **Code for Poland**
-    ^^^
-    *A community creating bottom-up IT projects to be socially useful.*
-    
-    :badge:`IT,badge-primary`
-    +++
-    .. link-button:: https://github.com/kodujdlapolski/
-        :text: github.com/kodujdlapolski
-        :classes: btn-outline-danger btn-block
+.. grid:: 1 2 2 2
+    :gutter: 3
+
+    .. grid-item-card::
+        :class-footer: sd-text-center
+        :shadow: md
+
+        **Code for Poland**   
+        ^^^
+        *A community creating bottom-up IT projects to be socially useful.*
+
+        :bdg-primary:`IT`
+        +++
+        .. button-link:: https://github.com/kodujdlapolski/
+            :color: danger
+            :outline:
+
+            github.com/kodujdlapolski
+
 
 
 Foundations
 -----------
 
-.. panels::
-    
-    **My Country Foundation**
-    ^^^
-    *We create tools that facilitate the use of public resources.*
-    
-    :badge:`IT,badge-primary`
-    +++
-    .. link-button:: https://mojepanstwo.pl
-        :text: mojepanstwo.pl
-        :classes: btn-outline-danger btn-block
+.. grid:: 1 2 2 2
+    :gutter: 3
 
-    ---
-    
-    **Digital Poland Foundation**
-    ^^^
-    *Making Poland one of the Leading Global Digital Innovation Hubs.*
+    .. grid-item-card::
+        :class-footer: sd-text-center
+        :shadow: md
 
-    :badge:`IT,badge-primary`
-    +++
-    .. link-button:: https://www.digitalpoland.org/en
-        :text: digitalpoland.org/en
-        :classes: btn-outline-danger btn-block
+        **My Country Foundation**   
+        ^^^
+        *We create tools that facilitate the use of public resources.*
+
+        :bdg-primary:`IT`
+        +++
+        .. button-link:: https://mojepanstwo.pl
+            :color: danger
+            :outline:
+
+            mojepanstwo.pl
+    
+    .. grid-item-card::
+        :class-footer: sd-text-center
+        :shadow: md
+
+        **Digital Poland Foundation**   
+        ^^^
+        *Making Poland one of the Leading Global Digital Innovation Hubs.*
+
+        :bdg-primary:`IT`
+        +++
+        .. button-link:: https://www.digitalpoland.org/en
+            :color: danger
+            :outline:
+
+            digitalpoland.org/en
+
